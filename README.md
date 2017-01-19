@@ -11,3 +11,8 @@ gains score. The player also gains passive points for staying alive. In
 gameplay, the user uses the arrow keys on the keyboard to move, and can
 toggle the switches of the DE1-SoC board to change the color of the
 enemies.
+
+* This project also includes published libraries, the copyrights belongs
+to the original writer of these librarys
+- PS2_Controller
+- VGA Adaptor Library
